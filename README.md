@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Poojav22
+- 👋 Hi, I’m @poojav22
 - 🌱 I’m currently working as a software developer
 - 👀 I’m interested in working on projects related to python
 - 📫 You can reach me at poojavsindhu@gmail.com
